@@ -1,0 +1,16 @@
+Script started on 2022-02-03 17:48:47+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="203" LINES="46"]
+]0;mat@mat-VirtualBox: ~/PRPA/Primer-Repositorio-intento-2-[01;32mmat@mat-VirtualBox[00m:[01;34m~/PRPA/Primer-Repositorio-intento-2-[00m$ python 3 [K[K[K3 0_procesos.txt[K[K[Kpy
+fin
+hola 0
+hola 0
+hola 1
+hola 2
+hola 3
+hola 1
+hola 4
+hola 2
+hola 3
+hola 4
+]0;mat@mat-VirtualBox: ~/PRPA/Primer-Repositorio-intento-2-[01;32mmat@mat-VirtualBox[00m:[01;34m~/PRPA/Primer-Repositorio-intento-2-[00m$ exit
+
+Script done on 2022-02-03 17:49:19+01:00 [COMMAND_EXIT_CODE="0"]
