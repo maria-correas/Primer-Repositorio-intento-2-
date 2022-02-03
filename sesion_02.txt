@@ -1,0 +1,37 @@
+Script started on 2022-02-03 18:02:00+01:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="203" LINES="46"]
+]0;mat@mat-VirtualBox: ~/PRPA/Primer-Repositorio-intento-2-[01;32mmat@mat-VirtualBox[00m:[01;34m~/PRPA/Primer-Repositorio-intento-2-[00m$ python3 1_procesos.py
+hola soy ana 1 vuelta 0
+hola soy ana 2 vuelta 0
+hola soy ana 5 vuelta 0
+hola soy ana 0 vuelta 0
+hola soy ana 4 vuelta 0
+hola soy ana 3 vuelta 0
+hola soy ana 6 vuelta 0
+hola soy ana 7 vuelta 0
+hola soy ana 8 vuelta 0
+fin
+hola soy ana 9 vuelta 0
+adios
+hola soy ana 7 vuelta 1
+hola soy ana 0 vuelta 1
+hola soy ana 7 vuelta 2
+hola soy ana 5 vuelta 1
+hola soy ana 6 vuelta 1
+hola soy ana 8 vuelta 1
+hola soy ana 4 vuelta 1
+hola soy ana 8 vuelta 2
+hola soy ana 9 vuelta 1
+hola soy ana 3 vuelta 1
+hola soy ana 2 vuelta 1
+hola soy ana 5 vuelta 2
+hola soy ana 1 vuelta 1
+hola soy ana 0 vuelta 2
+hola soy ana 9 vuelta 2
+hola soy ana 2 vuelta 2
+hola soy ana 6 vuelta 2
+hola soy ana 4 vuelta 2
+hola soy ana 3 vuelta 2
+hola soy ana 1 vuelta 2
+]0;mat@mat-VirtualBox: ~/PRPA/Primer-Repositorio-intento-2-[01;32mmat@mat-VirtualBox[00m:[01;34m~/PRPA/Primer-Repositorio-intento-2-[00m$ [K]0;mat@mat-VirtualBox: ~/PRPA/Primer-Repositorio-intento-2-[01;32mmat@mat-VirtualBox[00m:[01;34m~/PRPA/Primer-Repositorio-intento-2-[00m$ [K]0;mat@mat-VirtualBox: ~/PRPA/Primer-Repositorio-intento-2-[01;32mmat@mat-VirtualBox[00m:[01;34m~/PRPA/Primer-Repositorio-intento-2-[00m$ [K]0;mat@mat-VirtualBox: ~/PRPA/Primer-Repositorio-intento-2-[01;32mmat@mat-VirtualBox[00m:[01;34m~/PRPA/Primer-Repositorio-intento-2-[00m$ [K]0;mat@mat-VirtualBox: ~/PRPA/Primer-Repositorio-intento-2-[01;32mmat@mat-VirtualBox[00m:[01;34m~/PRPA/Primer-Repositorio-intento-2-[00m$ [K]0;mat@mat-VirtualBox: ~/PRPA/Primer-Repositorio-intento-2-[01;32mmat@mat-VirtualBox[00m:[01;34m~/PRPA/Primer-Repositorio-intento-2-[00m$ ð[Kexit
+
+Script done on 2022-02-03 18:05:38+01:00 [COMMAND_EXIT_CODE="0"]
